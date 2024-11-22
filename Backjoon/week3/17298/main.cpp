@@ -6,7 +6,6 @@ using namespace std;
 //
 int n;
 const int max_n = 1000000;
-int dp[max_n];
 
 int main()
 {

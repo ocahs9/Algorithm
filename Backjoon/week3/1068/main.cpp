@@ -53,7 +53,7 @@ int main()
   int cnt = 0;
   if (parentNode != removeNode)
   {
-    // invalid 처리
+    // invalid 처리 (방문처리)
     DFS(removeNode);
 
     // leaf node 판단
