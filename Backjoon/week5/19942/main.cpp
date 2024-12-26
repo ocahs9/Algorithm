@@ -15,6 +15,7 @@ int main(){
     for(int i = 0; i < n; i++){
     	cin >> a[i].mp >> a[i].mf >> a[i].ms >> a[i].mv >> a[i].cost;  
 	}
+    //0001 -> {1} 0101 -> {1, 3}
 	for(int i = 1; i < (1 << n); i++){
 		b = c = d = e = sum = 0;
         vector<int> v; 

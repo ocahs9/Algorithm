@@ -9,7 +9,6 @@
 //16 4 2 1 1 -> 방금 자른 1을 버리면 딱 목표(23)가 됨
 //16 4 2 1 ===> 총 4개 
 
-
 #include <bits/stdc++.h>
 using namespace std;
 int n, ret = 1;
