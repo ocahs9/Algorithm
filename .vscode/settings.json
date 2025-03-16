@@ -2,6 +2,9 @@
   "files.associations": {
     "vector": "cpp",
     "xstring": "cpp",
-    "ios": "cpp"
+    "ios": "cpp",
+    "cfenv": "cpp",
+    "future": "cpp",
+    "ostream": "cpp"
   }
 }
